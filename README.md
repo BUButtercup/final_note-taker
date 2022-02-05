@@ -2,7 +2,7 @@
 
 This is a notetaking/storing application. The function of this app is to take in notes through a UI, store them in a db.json, and render the saved notes as list items in a side panel. These notes can then be called back, edited, or deleted. 
 
-I learned a lot about using express.js routes during this project, as well as how the front-end and the back end communicate with each other. THIS REPOSITORY IS A RE-CREATION OF A PREVIOUS REPOSITORY. FOR ACCURATE RECORD OF PREVIOUS COMMITS, VISIT (this repository)[https://github.com/BUButtercup/note-taker].
+I learned a lot about using express.js routes during this project, as well as how the front-end and the back end communicate with each other. THIS REPOSITORY IS A RE-CREATION OF A PREVIOUS REPOSITORY. FOR ACCURATE RECORD OF PREVIOUS COMMITS, VISIT [the v1 note-taker repository](https://github.com/BUButtercup/note-taker).
 
 In the future, this app is either a lovely little stand alone for use one a desktop or mobile device, or could be integrated into a package geared towards offices or project managers.
     
