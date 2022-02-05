@@ -25,6 +25,8 @@ In the future, this app is either a lovely little stand alone for use one a desk
 
 Here is a [video walkthrough](https://drive.google.com/file/d/1f5XDb3T1zUlemKMsPt8CMXyM694896Gu/view?usp=sharing).
 
+Here is the link to the app deployed on Heroku: https://nkc-final-notetaker.herokuapp.com/notes
+
 ## Credits 
 
 
