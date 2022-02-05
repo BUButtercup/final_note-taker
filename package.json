@@ -1,0 +1,25 @@
+{
+  "name": "final_note-taker",
+  "version": "1.0.0",
+  "description": "This is a notetaking/storing application. The function of this app is to take in notes through a UI, store them in a db.json, and render the saved notes as list items in a side panel. These notes can then be called back, edited, or deleted. I learned a lot about using express.js routes during this project, as well as how the front-end and the back end communicate with each other. In the future, this app is either a lovely little stand alone for use one a desktop or mobile device, or could be integrated into a package geared towards offices or project managers.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BUButtercup/final_note-taker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BUButtercup/final_note-taker/issues"
+  },
+  "homepage": "https://github.com/BUButtercup/final_note-taker#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "uuid": "^8.3.2"
+  }
+}
